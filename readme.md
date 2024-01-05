@@ -12,7 +12,7 @@ Explore the YouTube Clone with our live demo: [YouTube Clone Demo](https://lordb
 
 ## Screenshots
 ![Screenshot 1](https://images.unsplash.com/photo-1683009427051-00a2fe827a2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8)
-![Screenshot 2](link_to_image_2)
+![Screenshot 2](https://imgur.com/a/YWOGCeK)
 ![Screenshot 3](link_to_image_3)
 
 ## Getting Started
